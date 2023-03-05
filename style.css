@@ -15,8 +15,6 @@
     --other-color: #868686;
     --big-font: 5.5rem;
     --p-font: 1rem;
-
-
 }
 
 body{
@@ -324,6 +322,10 @@ body.color {
     .navlist.open {
         top: 100%;
     }
+
+    .h-btn {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 600px) {
@@ -344,5 +346,9 @@ body.color {
     }
     .logo {
         font-size: 32px;
+    }
+    .h-btn {
+        font-size: 14px;
+        padding: 12px 6px;
     }
 }
