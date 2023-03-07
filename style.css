@@ -310,7 +310,8 @@ body.color {
         position: absolute;
         top: -700px;
         left: 0;
-        right: 0;display: flex;
+        right: 0;
+        display: flex;
         flex-direction: column;
         background: #000;
         transition: all ease .55s;
