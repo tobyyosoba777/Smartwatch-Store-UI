@@ -41,7 +41,6 @@ header {
     color: var(--text-color);
     font-size: 40px;
     font-weight: bold;
-
 }
 
 .logo i {
@@ -49,7 +48,6 @@ header {
     color: var(--main-color);
     font-size: 35px;
     margin-right: 5px;
-
 }
 
 .navlist {
