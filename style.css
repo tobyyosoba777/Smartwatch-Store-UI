@@ -24,7 +24,7 @@ html {
 body{
     background: var(--bg-color);
     color: var(--text-color);
-    }
+}
 
 header {
     position: fixed;
@@ -130,7 +130,7 @@ section {
 
 .hero-img {
     height: 800px;
-    width: 800px;
+    width: 705px;
 }
 
 .hero-img img {
@@ -173,9 +173,9 @@ section {
 
 .box {
     background: var(--second-color);
-    padding: 25px 40px;
+    padding: 25px 30px;
     border-radius: 1rem;
-    box-shadow: rgba(33, 55, 38, 0.1) 0px 10px 10px -10px;
+    box-shadow: rgba(33, 55, 38, 0.4) 0px 10px 10px -10px;
     transition: all .55s ease;
     cursor: pointer;
 }
@@ -204,7 +204,7 @@ section {
 
 .box .price {
     font-size: 1em;
-    color: #ff2d2d;
+    color: #ff5151;
 }
 
 .down-arrow {
